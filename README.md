@@ -53,5 +53,3 @@ It showcases:
 - Ongoing learning in Python fundamentals and applied projects  
 - Problem-solving and algorithmic thinking  
 - Clean and maintainable code practices  
-
----
