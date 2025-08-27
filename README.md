@@ -2,8 +2,15 @@
 
 **My implementations of FreeCodeCamp’s Scientific Computing with Python certification projects — a learning journey showcasing Python programming skills.**
 
-This repository collects the five required projects for the  
-**Scientific Computing with Python certification** on [FreeCodeCamp](https://www.freecodecamp.org/).
+This repository collects my solutions to the five required projects for the  
+**Scientific Computing with Python certification** on [FreeCodeCamp](https://www.freecodecamp.org/).  
+Currently a work in progress — I’m completing the projects step by step.
+
+---
+
+![Python](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Progress-In%20progress-orange)
+![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Scientific%20Computing%20with%20Python-lightgreen?logo=freecodecamp)
 
 ---
 
@@ -40,6 +47,12 @@ This repository collects the five required projects for the
 ---
 
 ## 📜 About
-These projects were built as part of the  
-**Scientific Computing with Python Certification** on FreeCodeCamp.  
-They showcase problem-solving, clean Python code, and algorithmic thinking.
+This repository documents my progress in completing the  
+**[FreeCodeCamp Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/)**.  
+
+It showcases:
+- Ongoing learning in Python fundamentals and applied projects  
+- Problem-solving and algorithmic thinking  
+- Clean and maintainable code practices  
+
+---
