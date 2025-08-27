@@ -4,7 +4,6 @@
 
 This repository collects my solutions to the five required projects for the  
 **Scientific Computing with Python certification** on [FreeCodeCamp](https://www.freecodecamp.org/).  
-Currently a work in progress — I’m completing the projects step by step.
 
 ---
 
