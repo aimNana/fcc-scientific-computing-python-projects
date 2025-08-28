@@ -38,3 +38,9 @@ print(arithmetic_formatter(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"], True
 - Python 3
 - String formatting
 - Basic error handling
+
+---
+
+  ## 📄 License
+This project is covered by the same license as the root repository.  
+See the [LICENSE](../LICENSE) file for details.
