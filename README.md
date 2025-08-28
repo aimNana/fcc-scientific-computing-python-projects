@@ -15,25 +15,27 @@ This repository collects my solutions to the five required projects for the
 
 ## 📂 Projects
 
-1. ➗ **Arithmetic Formatter**  
-   Format arithmetic problems vertically and neatly.  
-   [Source Code](./arithmetic-formatter/)
+| # | Project | Description | Source |
+|---|----------|-------------|--------|
+| 1 | ➗ Arithmetic Formatter | Format arithmetic problems vertically and neatly | [Code](./arithmetic-formatter/) |
+| 2 | ⏱️ Time Calculator | Add durations to starting times, returning the correct new time and day | [Code](./time-calculator/) |
+| 3 | 💰 Budget App | Ledger class for deposits, withdrawals & transfers | [Code](./budget-app/) |
+| 4 | 🔺 Polygon Area Calculator | Classes for rectangles/squares with area & diagrams | [Code](./polygon-area-calculator/) |
+| 5 | 🎲 Probability Calculator | Simulate outcomes of drawing balls from a hat | [Code](./probability-calculator/) |
 
-2. ⏱️ **Time Calculator**  
-   Add durations to starting times, returning the correct new time and day.  
-   [Source Code](./time-calculator/)
+---
 
-3. 💰 **Budget App**  
-   Create a ledger class that can handle deposits, withdrawals, and transfer between categories.  
-   [Source Code](./budget-app/)
+## ▶️ How to Run
 
-4. 🔺 **Polygon Area Calculator**  
-   Build classes for rectangles and squares that can calculate area and generate diagrams.  
-   [Source Code](./polygon-area-calculator/)
+Clone this repository and navigate into a project folder:
 
-5. 🎲 **Probability Calculator**  
-   Use probability and randomization to estimate outcomes of drawing balls from a hat.  
-   [Source Code](./probability-calculator/)
+```bash
+git clone https://github.com/tuo-username/fcc-scientific-computing-python-projects.git
+cd fcc-scientific-computing-python-projects/arithmetic-formatter
+python arithmetic_arranger.py
+Each project can be run independently inside its own folder.
+```
+Each project can be run independently inside its own folder.
 
 ---
 
