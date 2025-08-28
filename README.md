@@ -1,15 +1,13 @@
 # 🐍 FreeCodeCamp Scientific Computing with Python Projects
 
+![Python](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Progress-In%20progress-orange)
+![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Scientific%20Computing%20with%20Python-lightgreen?logo=freecodecamp)
+
 **My implementations of FreeCodeCamp’s Scientific Computing with Python certification projects — a learning journey showcasing Python programming skills.**
 
 This repository collects my solutions to the five required projects for the  
 **Scientific Computing with Python certification** on [FreeCodeCamp](https://www.freecodecamp.org/).  
-
----
-
-![Python](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Progress-In%20progress-orange)
-![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Scientific%20Computing%20with%20Python-lightgreen?logo=freecodecamp)
 
 ---
 
@@ -33,7 +31,6 @@ Clone this repository and navigate into a project folder:
 git clone https://github.com/tuo-username/fcc-scientific-computing-python-projects.git
 cd fcc-scientific-computing-python-projects/arithmetic-formatter
 python arithmetic_arranger.py
-Each project can be run independently inside its own folder.
 ```
 Each project can be run independently inside its own folder.
 
@@ -48,10 +45,17 @@ Each project can be run independently inside its own folder.
 ---
 
 ## 📜 About
-This repository documents my progress in completing the  
+These projects were built as part of the 
 **[FreeCodeCamp Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/)**.  
 
 It showcases:
 - Ongoing learning in Python fundamentals and applied projects  
 - Problem-solving and algorithmic thinking  
-- Clean and maintainable code practices  
+- Clean and maintainable code practices
+
+---
+
+## 📄 License
+This repository is available under the [MIT License](./LICENSE).  
+You are free to use, modify, and distribute the code with attribution.
+
