@@ -70,3 +70,9 @@ print(create_spend_chart([food, clothing]))
 - Python 3
 - Classes and OOP
 - String manipulation
+
+---
+
+  ## 📄 License
+This project is covered by the same license as the root repository.  
+See the [LICENSE](../LICENSE) file for details.
