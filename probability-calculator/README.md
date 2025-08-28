@@ -1,12 +1,10 @@
 # 🎲 Probability Calculator
 
-**Description**  
-Simulates drawing balls from a hat to estimate probability outcomes.
-
----
-
 ![Python](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Progress-In%20progress-orange)
+
+**Description**  
+Simulates drawing balls from a hat to estimate probability outcomes.
 
 ---
 
@@ -23,9 +21,7 @@ Simulates drawing balls from a hat to estimate probability outcomes.
 >>> print(probability)
 
 0.356
-```
-
----
+```  
 
 ## 🚀 Usage
 ```python
@@ -39,11 +35,13 @@ probability = experiment(
     num_experiments=2000
 )
 print(probability)
-```
-
----
+```  
 
 ## 🛠️ Technologies
 - Python 3
 - Probability and statistics
 - Randomization
+
+## 📄 License 
+  This project is covered by the same license as the root repository.  
+  See the [LICENSE](../LICENSE) file for details.
